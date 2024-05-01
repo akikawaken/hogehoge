@@ -5,5 +5,6 @@
 |Player3|GTX 1060|31.0.15.3699|5|
 |Player4|GTX 1060|31.0.15.1694|1|
 |Player5|RTX 3090|31.0.15.5222|1|
+|Player6|RTX 3070|31.0.15.5176|3|
 
-I saw only two of the five dumps, both were "ExceptionCode: c0000005 (Access violation)".
+I saw only two of the six dumps, both were "ExceptionCode: c0000005 (Access violation)".
