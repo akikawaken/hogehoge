@@ -17,6 +17,3 @@ Below are the GPU/graphics board and number of crashes I've heard from friends.
 |Player8|Intel(R) Iris(R) Xe Graphics|31.0.101.5333|2|c0000005 (Access violation)|
 |Player9|Intel(R) Core(TM)i7|[Version information not provided]|0|--|
 |Player10|Intel(R) UHD Graphics 770|31.0.101.3302|0|--|
-
-
-I saw only two dumps, both were "ExceptionCode: c0000005 (Access violation)".
